@@ -1,0 +1,35 @@
+.cc1 {
+  /* display: flex; */
+  width: 13rem;
+  height: 11rem;
+  padding-top: 0.2px;
+  background-color: gray;
+  margin-left: 2rem;
+}
+.box {
+  width: 4rem;
+  height: 3rem;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  background-color: red;
+}
+
+.box h1 {
+  padding-left: 1rem;
+  padding-top: 8rem;
+  font-size: small;
+}
+h3 {
+  padding: 2rem;
+  background-color: blue;
+}
+.searchbox {
+  width: 15rem;
+  height: 1.3rem;
+  margin-left: 2rem;
+}
+.button {
+  font-style: italic;
+  margin-top: rem;
+  margin-left: 1rem;
+}
